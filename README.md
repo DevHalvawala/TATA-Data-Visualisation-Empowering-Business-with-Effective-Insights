@@ -111,3 +111,27 @@ In this task, you will be required to read the questions carefully and understan
 You will be provided resources on how to select visuals based on the different scenarios, these are available in the resources section. These resources will help you get an idea on which visual to select for the given business scenario and will also guide you on how to choose the right chart or graph for your data. Each question will contain a unique scenario and you will be expected to answer the questions based on that scenario.
 
 To complete this task, answer the multiple-choice quiz. Start the quiz by clicking 'Click here to start the task' in section 5 below. Please note there are 5 multiple choice questions to complete in this task. Please be patient as each question loads.
+
+## **Task 4 - Communicating Insights and Analysis**
+Effectively communicate your findings and explain how it relates to each scenario
+
+**Background info and context**
+
+It’s time to present your findings to the CEO and CMO. They are interested in your thought process and how you have handled the data cleanup and visualisation phase. It is important to explain your thought process and ideas in a clear and straightforward way. You are also required to clearly present the analysis of all four questions from the previous task. Make sure you are well versed with the data and the conclusions you’ve made from your analysis. 
+
+Expansion is top of mind for these leaders and they’re keen to understand where the most lucrative opportunities are in their business.
+
+**Details for task**
+
+Develop a script and record a video presenting your findings to the CEO and CMO based on the four questions they asked and the visuals you created in the previous tasks.
+
+You can use your work or the model answer from the previous task to develop your presentation.
+
+When writing your script, you should speak about your entire process, including the initial data load and clean-up steps so that your leaders know you’ve done your due diligence in providing error-free analysis. 
+Data analysis provides heaps of information but remember to focus on the information that is most important to your leaders.
+
+Your video should be approximately 5 minutes in length. You can record your video in the browser or upload a video from your device below.
+
+Remember, this is not just a read out of your visuals, you’re presenting to the CEO and CMO and need to provide context for each scenario and how it relates to their questioning.
+Footer
+
